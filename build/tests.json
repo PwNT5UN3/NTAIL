@@ -1,0 +1,15 @@
+{
+  "contracts": {
+    "NineTailsToken": "da5a6fca6a7cda892853f7b65157de90e822728a"
+  },
+  "tests": {
+    "tests/test_NTAIL.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "..",
+      "sha1": "84fdabdfc6dc50f4da56369913306ef7a69b98c7",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
